@@ -1,0 +1,19 @@
+{
+    "name": "kdf/belajar-oop",
+    "description": "belajr oop menggunakan php 7.*",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kdf\\BelajarOop\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Agus Novian",
+            "email": "agusnovian21@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
